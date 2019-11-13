@@ -8,7 +8,15 @@ int main() {
     printf("%d\n", getTriangleType(3, 4, 5));
     return 0;
 }
+<<<<<<< Updated upstream
 #endif // TEST123 test456 pulu 1 hihi 
+=======
+<<<<<<< Updated upstream
+#endif // TEST123 test456 pulu 1
+=======
+#endif // TEST123 test45645
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
 
 int addNumber(int a, int b) {
     return a + b;
